@@ -1,0 +1,10 @@
+.add-form {
+  width: 500px;
+  padding: 5px;
+}
+.logo-image {
+  height: 20px;
+}
+.hidetext {
+  -webkit-text-security: disc;
+}
